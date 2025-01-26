@@ -22,7 +22,7 @@ L'obiettivo del progetto è di rispondere a determinate richieste da parte del c
    - Commento sui dati nulli presenti
 
 ## Informazioni utili:
-Il dataset (in formato .csv) è acessibile attraverso un link a GoogleDrive, ho implementato la lettura del file da parte di pandas con il link
+Il dataset (in formato .csv) è acessibile attraverso un link a GoogleDrive, ho implementato la lettura del file da parte di pandas con il link.
 In questo modo l'elaborato è accessibile da qualsiasi utente.
 
 Non ho implementato chiavi di accesso perché si tratta di un dataset pubblico.
